@@ -1,6 +1,11 @@
-local BannedGroups = {
-    ['Group'] = 0
+local Module = {}
+
+Module.BannedGroups = {
+	['GROUP'] = 0
 }
-local BannedUsers = {
-    ['User'] = 0
+
+Module.BannedUsers = {
+	['USER'] = 0
 }
+
+return Module
