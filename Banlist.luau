@@ -5,7 +5,7 @@ Module.BannedGroups = {
 }
 
 Module.BannedUsers = {
-	['USER'] = 0
+	['WuIfrath'] = 230623793
 }
 
 return Module
