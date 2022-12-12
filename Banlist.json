@@ -1,9 +1,10 @@
 {
-	"GROUPS": {
+	"BannedGroups": {
 		"GROUP": "ID"
 	},
 
-	"USERS": {
-		"USER": "ID"
+	"BannedUsers": {
+		"USER": "ID",
+		"WUIFRATH": "230623793"
 	}
 }
