@@ -1,22 +1,71 @@
 {
 	"BannedGroups": {
-		"GROUP": "ID"
-		"Glory's Order": "15181549"
-		"The Richterian Dynasty": "6018749"
-		"USAF": "3058146"
+		"GROUP": {
+			"Reason": "REASON HERE",
+			"ID": "ID HERE"
+		},
+		"Glory's Order": {
+			"Reason": "",
+			"ID": "15181549"
+		},
+		"The Richterian Dynasty": {
+			"Reason": "",
+			"ID": "6018749"
+		},
+		"USAF": {
+			"Reason": "",
+			"ID": "3058146"
+		}
 	},
 
 	"BannedUsers": {
-		"USER": "ID",
-		"Eckerdart": "2768052937",
-		"FredFayette": "639498348",
-		"MaverickUNN": "733887240",
-		"jjv789": "52470971",
-		"Gerospos": "86033417",
-		"CaptainZekeJaeger": "461619205",
-		"Mobauer": "2346049842",
-		"Elixmann": "1992748764",
-		"Ortwinhauf": "117435299",
-		"Ortwinhauff": "4093099465"
+		"USER": {
+			"Reason": "REASON HERE",
+			"ID": "ID HERE"
+		},
+		"Eckerdart": {
+			"Reason": "",
+			"ID": "2768052937"
+		},
+		"FredFayette": {
+			"Reason": "",
+			"ID": "639498348"
+		}, 
+		"MaverickUNN": {
+			"Reason": "",
+			"ID": "733887240"
+		},
+		"jjv789": {
+			"Reason": "",
+			"ID": "52470971"
+		},
+		"Gerospos": {
+			"Reason": "",
+			"ID": "86033417"
+		},
+		"CaptainZekeJaeger": {
+			"Reason": "",
+			"ID": "461619205"
+		},
+		"Mobauer": {
+			"Reason": "",
+			"ID": "2346049842"
+		},
+		"Elixmann": {
+			"Reason": "",
+			"ID": "1992748764"
+		},
+		"Ortwinhauf": {
+			"Reason": "",
+			"ID": "117435299"
+		},
+		"Ortwinhauff": {
+			"Reason": "",
+			"ID": "4093099465"
+		},
+		"WuIfrath": {
+			"Reason": "Test",
+			"ID": "230623793"
+		}
 	}
 }
