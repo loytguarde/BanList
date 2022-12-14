@@ -15,6 +15,10 @@
 		"USAF": {
 			"Reason": "",
 			"ID": "3058146"
+		},
+		"ATLAS | SIS": {
+			"Reason": "Test",
+			"ID": "4853197"
 		}
 	},
 
@@ -62,10 +66,6 @@
 		"Ortwinhauff": {
 			"Reason": "",
 			"ID": "4093099465"
-		},
-		"WuIfrath": {
-			"Reason": "Test",
-			"ID": "230623793"
 		}
 	}
 }
