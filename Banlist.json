@@ -19,6 +19,70 @@
 		"House of Models": {
 			"Reason": "Ruler's Order",
 			"ID": "4629813"
+		},
+		"Greater Aldemannic Realm": {
+			"Reason": "Obvious copy of Alemannia",
+			"ID": "16219106"
+		},
+		"Brotherhood of Zug" : {
+			"Reason": "AA'ers, attempt at taking down a branch",
+			"ID": "15638433"
+		},
+		"The Greater Region of Rhineland": {
+			"Reason": "",
+			"ID": "6762224"
+		},
+		"Kingdom of Bavaria": {
+			"Reason": "Wittelsbach, in favor of Elixmann, tried to take members from our group",
+			"ID": "13317326"
+		},
+		"Kingdom of Spitsbergen": {
+			"Reason": "Called us Nazis and Holocaust deniers",
+			"ID": "15935965"
+		},
+		"The Vulkenhert Empire": {
+			"Reason": "Fascists",
+			"ID": "6157813"
+		},
+		"The United North American Realm": {
+			"Reason": "Led by FredFayette",
+			"ID": "12337930"
+		},
+		"New Realm": {
+			"Reason": "Defamation of the Realm and the Ruler",
+			"ID": "14274888"
+		},
+		"Kartal": {
+			"Reason": "Asset thieves, calls us nazis",
+			"ID": "11649388"
+		},
+		"Germannia": {
+			"Reason": "Clear copy of Alemannia",
+			"ID": "16162885"
+		},
+		"The Greater Teutonnia Realm": {
+			"Reason": "Copy of Teutonnia",
+			"ID": "15894060"
+		},
+		"House Leizett": {
+			"Reason": "Eckerdart's family",
+			"ID": "15468212"
+		},
+		"The Principality of Weserland": {
+			"Reason": "Eckerdart's group, connected to Elixmann",
+			"ID": "10894913"
+		},
+		"The Kingdom of Panterria": {
+			"Reason": "Eckerdart's group, connected to Elixmann",
+			"ID": "12812157"
+		},
+		"The Greater Teutonic State": {
+			"Reason": "Eckerdart's group, connected to Elixmann",
+			"ID": "8403493"
+		},
+		"Anti-Teutonnic United Front": {
+			"Reason": "Anti-Teutonnia",
+			"ID": "16093844"
 		}
 	},
 
